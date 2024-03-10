@@ -6,19 +6,19 @@ MongoDB: Install MongoDB on your machine.
 
 Clone the Repository: git clone <repository-url>
 
-Install Dependencies: npm install
+Install Dependencies: "npm install"
 This command installs all the necessary dependencies listed in the package.json file.
 
 Start MongoDB: Start your MongoDB server by running the appropriate command for your operating system. 
-For example: mongod
+For example:"mongod"
 Make sure MongoDB is running on the default port (27017).
 
-Run the Application: vnpm start
+Run the Application: "npm start"
 This command starts your Node.js application. Make sure there are no errors reported during startup.
 
 Once the application is running, you can access the API endpoints using a tool like Postman or by sending HTTP requests programmatically.
 
-Run Tests: npm test
+Run Tests: "npm test"
 
 
 **API DOCUMENTATION**
